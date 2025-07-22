@@ -2,7 +2,7 @@ import AcmeLogo from '@/app/ui/acme-logo';
 import { ArrowLeftIcon, ArrowRightIcon, ArrowUpIcon } from '@heroicons/react/24/outline';
 import Link from 'next/link';
 import styles from '@/app/ui/home/home.module.css';
-import { lusitana } from './ui/founts';
+import { lusitana } from '@/app/ui/fonts';
 import Image from 'next/image';
 
 export default function Page() {
